@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  openplatformsvr:
+  - apiVersion: v2
+    appVersion: "1786792082677"
+    created: "2026-08-15T11:08:46.793966833Z"
+    description: API Gateway — HTTP 入口，通过 gRPC 转发到后端业务服务
+    digest: 7543226e24754ff0803d6335932f0b7ca58251bf30dceb041fda65d0bf1f2237
+    name: openplatformsvr
+    type: application
+    urls:
+    - https://qkja.github.io/helm-charts/openplatformsvr-0.1.0-1786792082677.tgz
+    version: 0.1.0-1786792082677
+generated: "2026-08-15T11:08:46.793353994Z"
